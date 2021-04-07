@@ -18,3 +18,5 @@ Assim como muitas famílias, a nossa também já passou pelo drama do desapareci
 > Baixe nosso app
 - <a href="https://apps.apple.com/br/app/anjoanimal/id1554482280">App Store</a>
 - <a href="https://play.google.com/store/apps/details?id=com.anjoanimal.anjoanimal">Google Play</a>
+
+![Graph](https://user-images.githubusercontent.com/45128599/113911377-4a35a500-97b0-11eb-85b8-d6254e689c95.png)
