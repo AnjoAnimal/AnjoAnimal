@@ -1,3 +1,6 @@
+<div align=center><img src=".github/logo.png"/></div>
+<br/>
+
 # Cuidamos do Seu Anjo, Como Ele Merece!
 
 ## Aplicativo de identificação e localização do seu animal de estimação!
